@@ -19,7 +19,7 @@ cv:
       
 
       - institution: Taishan University of Science and Technology
-        location: Tai'an China
+        location: Tai'an City China
         area: Electronic Information Engineering
         studyType: Bachelor's degree
         start_date: 2023
@@ -27,7 +27,7 @@ cv:
        
          
       - institution: Yantai Automobile Engineering Professional College
-        location: Yantai China
+        location: Yantai City China
         area: Industrial robots
         studyType: college
         start_date: 2020
@@ -47,7 +47,7 @@ cv:
         summary: "CET-4"
 
     Interests:
-      - name: Full-stack development, evtol, soccer, mathematics, physics
+      - name: Data Science, Full-stack development, evtol, soccer, mathematics, physics
         icon: fa-solid fa-tag
     
 
