@@ -19,7 +19,7 @@ cv:
       
 
       - institution: Taishan University of Science and Technology
-        location: Tai'an City, Shandong Province, China
+        location: Tai'an City, China
         area: Electronic Information Engineering
         studyType: Bachelor's degree
         start_date: 2023
@@ -27,7 +27,7 @@ cv:
        
          
       - institution: Yantai Automobile Engineering Professional College
-        location: Yantai City, Shandong Province, China
+        location: Yantai City, China
         area: Industrial robots
         studyType: college
         start_date: 2020
@@ -36,9 +36,8 @@ cv:
     
     Skills:
       - name: Computer Assembly,Antigravity,Claude code
-        level: Master
         icon: fa-solid fa-hashtag
-        keywords: ""
+       
 
     Languages:
       - name: Korean
@@ -50,7 +49,7 @@ cv:
     Interests:
       - name: Full-stack development, evtol, soccer, mathematics, physics
         icon: fa-solid fa-tag
-        keywords: ""
+    
 
     Certificates:
       - name: Masterclass on Artificial Intelligence
