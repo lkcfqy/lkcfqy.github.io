@@ -204,14 +204,14 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-    books.md
-    blog.md
-    news.md
-    dropdown.md
-    teaching.md
-    profiles.md
-    projects.md
-    publications.md
+  - books.md
+  - blog.md
+  - news.md
+  - dropdown.md
+  - teaching.md
+  - profiles.md
+  - projects.md
+  - publications.md
 keep_files:
   - CNAME
   - .nojekyll
