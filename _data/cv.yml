@@ -33,12 +33,6 @@ cv:
         start_date: 2020
         end_date: 2023
      
-    
-    Skills:
-      - name: "Computer Assembly,Antigravity,Claude code"
-        icon: fa-solid fa-hashtag
-       
-
     Languages:
       - name: Korean
         summary: "NONE"
@@ -47,9 +41,31 @@ cv:
         summary: "CET-4"
 
     Interests:
-      - name: "Data Science, Full-stack development, evtol, soccer, mathematics, physics"
-        icon: fa-solid fa-tag
-    
+      - name: AI System Architecture
+        icon: fa-solid fa-microchip
+        keywords: "Neuro-Symbolic Computing, CXL/PIM, Active Inference, Cognitive Architectures"
+
+      - name: Economics
+        icon: fa-solid fa-chart-line
+        keywords: "Macroeconomics, Quantitative Analysis, Behavioral Economics, Market Research"
+
+      - name: eVTOL & Aviation
+        icon: fa-solid fa-plane-up
+        keywords: "Urban Air Mobility, Electric Propulsion, Autonomous Flight Control, Aeronautical Engineering"
+
+      - name: Basic Science
+        icon: fa-solid fa-atom
+        keywords: "Mathematical Modeling, Theoretical Physics, Material Science, Interdisciplinary Research"
+
+      - name: Data Science
+        icon: fa-solid fa-flask
+        keywords: "Statistical Modeling, Random Forest, Causal Inference, SQL Data Analysis"
+
+      - name: Large Language Models
+        icon: fa-solid fa-brain
+        keywords: "Transformer Architecture, RAG & Agents, Prompt Engineering, Model Fine-tuning"
+
+
 
     Certificates:
       - name: Masterclass on Artificial Intelligence
