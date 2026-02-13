@@ -1,6 +1,7 @@
 cv:
   name: LI KAICHEN
-  label: Scientist
+  label: Graduate Student in Computer Information Engineering
+  phone: +82 10-3915-7350
   email: lkcfqy@gmail.com
   location: Yangsan, South Korea
   image: ""
@@ -12,7 +13,7 @@ cv:
         location: Yangsan South Korea
         url: 
         area: Computer Information Engineering
-        studyType: M.S.
+        studyType: Master's Degree
         start_date: 2025
         end_date: 2026
         score: "4.3"
@@ -29,10 +30,11 @@ cv:
       - institution: Yantai Automobile Engineering Professional College
         location: Yantai Shandong China
         area: Industrial robots
-        studyType: college
+        studyType: Associate Degree
         start_date: 2020
         end_date: 2023
      
+
     Languages:
       - name: Korean
         summary: "NONE"
@@ -40,9 +42,10 @@ cv:
       - name: English
         summary: "CET-4"
 
+
     Interests:
       - name: AI System Architecture
-        icon: fa-solid fa-microchip
+        icon: fa-solid fa-robot
         keywords: "Neuro-Symbolic Computing, CXL/PIM, Active Inference, Cognitive Architectures"
 
       - name: Economics
@@ -50,7 +53,7 @@ cv:
         keywords: "Macroeconomics, Quantitative Analysis, Behavioral Economics, Market Research"
 
       - name: eVTOL & Aviation
-        icon: fa-solid fa-plane-up
+        icon: fa-solid fa-plane
         keywords: "Urban Air Mobility, Electric Propulsion, Autonomous Flight Control, Aeronautical Engineering"
 
       - name: Basic Science
@@ -58,13 +61,12 @@ cv:
         keywords: "Mathematical Modeling, Theoretical Physics, Material Science, Interdisciplinary Research"
 
       - name: Data Science
-        icon: fa-solid fa-flask
+        icon: fa-solid fa-database
         keywords: "Statistical Modeling, Random Forest, Causal Inference, SQL Data Analysis"
 
       - name: Large Language Models
         icon: fa-solid fa-brain
         keywords: "Transformer Architecture, RAG & Agents, Prompt Engineering, Model Fine-tuning"
-
 
 
     Certificates:
