@@ -9,7 +9,7 @@ cv:
   sections:
     Education:
       - institution: Youngsan University 
-        location: Yangsan, South Korea
+        location: Yangsan South Korea
         url: 
         area: Computer Information Engineering
         studyType: M.S.
@@ -19,7 +19,7 @@ cv:
       
 
       - institution: Taishan University of Science and Technology
-        location: Tai'an City, China
+        location: Tai'an China
         area: Electronic Information Engineering
         studyType: Bachelor's degree
         start_date: 2023
@@ -27,7 +27,7 @@ cv:
        
          
       - institution: Yantai Automobile Engineering Professional College
-        location: Yantai City, China
+        location: Yantai China
         area: Industrial robots
         studyType: college
         start_date: 2020
