@@ -1,14 +1,18 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - lkcfqy
 
-repo_description_lines_max: 2
+repo_description_lines_max: 4
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - lkcfqy/AION_voice
+  - lkcfqy/genesis_zero
+  - lkcfqy/AION
+  - lkcfqy/Neuro-CXL-PIM
+  - lkcfqy/friston
+  - lkcfqy/project_laplace
+  - lkcfqy/crypto_alpha
+  - lkcfqy/causal-diffusion-poc
+  - lkcfqy/fqylearning
+  - lkcfqy/LKC-CXL-PIM
+  - lkcfqy/web3-ai-sentry
+  - lkcfqy/lkcfqy.github.io
