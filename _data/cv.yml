@@ -35,7 +35,7 @@ cv:
      
     
     Skills:
-      - name: Computer Assembly,Antigravity,Claude code
+      - name: "Computer Assembly,Antigravity,Claude code"
         icon: fa-solid fa-hashtag
        
 
@@ -47,7 +47,7 @@ cv:
         summary: "CET-4"
 
     Interests:
-      - name: Data Science, Full-stack development, evtol, soccer, mathematics, physics
+      - name: "Data Science, Full-stack development, evtol, soccer, mathematics, physics"
         icon: fa-solid fa-tag
     
 
